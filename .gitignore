@@ -1,0 +1,29 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+*.env
+
+# Java
+*.class
+
+# Temporary files
+*.tmp
+# Installers and downloaded tools
+*.exe
+*.tar.gz
+apache-maven-*/
